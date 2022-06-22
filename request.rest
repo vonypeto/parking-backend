@@ -1,0 +1,20 @@
+GET http://localhost:5000/api/getdata/ 
+Content-Type: application/json
+
+{
+ "email": "bataasdasdas@gmasdaasil.com",
+"auth_id": "bataaasdsdaasds",
+"code": ""
+}
+
+###
+POST http://localhost:5000/api/entry/12
+Content-Type: application/json
+
+{
+ "email": "bataasdasdas@gmasdaasil.com",
+"auth_id": "bataaasdsdaasds",
+"code": ""
+}
+
+
